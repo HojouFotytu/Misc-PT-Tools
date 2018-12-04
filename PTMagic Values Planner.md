@@ -22,9 +22,7 @@ AND, and an SMS setting for a coin in free fall with:
 This tool will calculate the resulting initial cost, buy value, and trailing buy both globally, and for any coin that triggers your SMS setting.  It will allow you to adjust all the percentages, and apply different global settings with a drop-down menu.
 
 This is an excellent way to quickly visualize and analyze the results of your settings in various market conditions.
-![Imgur](https://i.imgur.com/gcyPvSi.jpg)
-![Imgur](https://media.giphy.com/media/OQH6buGZp0zngOzEwD/giphy.gif)
-![Imgur](https://i.imgur.com/gcyPvSi.jpg)
+![Imgur](https://media.giphy.com/media/SqwDN1AKHLrmAAXZEo/giphy.gif)
 
 __Make a local copy in your google drive to edit__
 
