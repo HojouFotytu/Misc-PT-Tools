@@ -4,17 +4,18 @@
 
 __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in your settings.analyzer.json.__
 
-For example, in your pairs folder, you might have:
+#### For example, in your pairs folder, you might have:
 - DEFAULT_initial_cost_percentage = 3
 - DEFAULT_A_buy_value = -0.2
 - DEFAULT_trailing_buy = 0.33
 
-And in your PTM settings.analyzer you might have a BEAR global setting:
+#### And in your PTM settings.analyzer you might have a BEAR global setting:
 - "DEFAULT_initial_cost_percentage_OFFSETPERCENT": -50,
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -25,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 25,
 
-AND, you might have a FREE FALL single-market setting:
+#### AND, you might have a FREE FALL single-market setting: 
+(PTM applies this to setting the result of the global setting, not the base values in your default settings files):
 - "DEFAULT_initial_cost_percentage_OFFSETPERCENT": -50,
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -500,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 125,
