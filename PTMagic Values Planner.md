@@ -20,7 +20,7 @@ __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in 
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -500,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 125,
 
-This tool will calculate the resulting initial cost, buy value, and trailing buy both globally, and for any coin that triggers your SMS setting.  It will allow you to adjust all the percentages, and apply different global settings with a drop-down menu.
+This tool will calculate the resulting initial cost, buy value, and trailing buy, both globally, and for any coin that triggers one of your SMS settings.  It will allow you to adjust all the percentages, and apply different global settings with a drop-down menu.
 
 ![Imgur](https://media.giphy.com/media/SqwDN1AKHLrmAAXZEo/giphy.gif)
 
