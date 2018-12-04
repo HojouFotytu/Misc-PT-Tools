@@ -4,7 +4,7 @@ A simple tool to help you visualize the effects of different BUY and TRAILING va
 when using "DEFAULT_trailing_profit_type = GROW"
 
 ![Image description](
-https://imgur.com/WF2nAl5)
+https://imgur.com/a/tMQQn5F)
 
 Make a local copy in your google drive to edit
 
