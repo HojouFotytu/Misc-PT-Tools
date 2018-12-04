@@ -9,12 +9,12 @@ For example, in your pairs folder, you might have:
 - DEFAULT_A_buy_value = -0.2
 - DEFAULT_trailing_buy = 0.33
 
-And in your PTM settings.analyzer you might have global setting for bear markets with:
+And in your PTM settings.analyzer you might have a BEAR global setting:
 - "DEFAULT_initial_cost_percentage_OFFSETPERCENT": -50,
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -25,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 25,
 
-AND, and an SMS setting for a coin in free fall with:
+AND, you might have a FREE FALL single-market setting:
 - "DEFAULT_initial_cost_percentage_OFFSETPERCENT": -50,
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -500,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 125,
