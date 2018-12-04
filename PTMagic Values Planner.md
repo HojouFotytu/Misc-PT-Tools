@@ -25,7 +25,7 @@ This is an excellent way to quickly visualize and analyze the results of your se
 
 ![Planner](https://i.imgur.com/NgIquNq.gifv)
 ![Imgur](https://i.imgur.com/NgIquNq.gifv)
-[Imgur](https://media.giphy.com/media/OQH6buGZp0zngOzEwD/giphy.gif)
+![Imgur](https://media.giphy.com/media/OQH6buGZp0zngOzEwD/giphy.gif)
 
 Make a local copy in your google drive to edit
 
