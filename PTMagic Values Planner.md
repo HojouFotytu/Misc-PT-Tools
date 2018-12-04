@@ -22,8 +22,9 @@ __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in 
 
 This tool will calculate the resulting initial cost, buy value, and trailing buy both globally, and for any coin that triggers your SMS setting.  It will allow you to adjust all the percentages, and apply different global settings with a drop-down menu.
 
-This is an excellent way to quickly visualize and analyze the results of your settings in various market conditions.
 ![Imgur](https://media.giphy.com/media/SqwDN1AKHLrmAAXZEo/giphy.gif)
+
+This is an excellent way to quickly visualize, compare, and analyze the results of your settings in various market conditions.  You can even use this in combination with a backtesting script on Trading View to visualize your results.  See: https://www.tradingview.com/script/IalMwC3q-PT-v2-ALL-IN-ONE-Buy-Strategies/
 
 __Make a local copy in your google drive to edit__
 
