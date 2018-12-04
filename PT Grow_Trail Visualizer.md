@@ -1,10 +1,9 @@
-PT Grow-Trailing Visualizer
+### PT Grow-Trailing Visualizer
 
 A simple tool to help you visualize the effects of different BUY and TRAILING values 
 when using "DEFAULT_trailing_profit_type = GROW"
 
-![Image description](
-https://imgur.com/a/tMQQn5F)
+![Image](https://i.imgur.com/WF2nAl5.png)
 
 Make a local copy in your google drive to edit
 
