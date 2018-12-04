@@ -2,7 +2,7 @@
 
 ### This tool will allow you to quickly see and compare how all your different global and single-market settings will affect the base values in your pairs and DCA default settings.
 
-__This assumes you are using "OFFSETPERCENT: for all global and SMS settings in your settings.analyzer.json.__
+__This assumes you are using "OFFSETPERCENT" for all global and SMS settings in your settings.analyzer.json.__
 
 For example, in your pairs folder, you might have:
 - DEFAULT_initial_cost_percentage = 3
