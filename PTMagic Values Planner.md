@@ -15,7 +15,7 @@ __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in 
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 25,
 
 #### AND, you might have a FREE FALL single-market setting: 
-(PTM applies this to setting the result of the global setting, not the base values in your default settings files):
+(PTM applies this setting the __results of the global setting__, not the base values in your default settings files):
 - "DEFAULT_initial_cost_percentage_OFFSETPERCENT": -50,
 - "DEFAULT_A_buy_value_OFFSETPERCENT": -500,
 - "DEFAULT_trailing_buy_OFFSETPERCENT": 125,
