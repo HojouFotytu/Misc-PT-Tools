@@ -24,12 +24,11 @@ This tool will calculate the resulting initial cost, buy value, and trailing buy
 
 ![Imgur](https://media.giphy.com/media/SqwDN1AKHLrmAAXZEo/giphy.gif)
 
-This is an excellent way to quickly visualize, compare, and analyze the results of your settings in various market conditions.  You can even use this in combination with a backtesting script on Trading View to visualize your results.  See: https://www.tradingview.com/script/IalMwC3q-PT-v2-ALL-IN-ONE-Buy-Strategies/
+- This is an excellent way to quickly visualize, compare, and analyze the results of your settings in various market conditions.  You can even use this in combination with a backtesting script on Trading View to visualize your results.  See: https://www.tradingview.com/script/IalMwC3q-PT-v2-ALL-IN-ONE-Buy-Strategies/
 
-__Make a local copy in your google drive to edit__
-
-For the tool, go here:  
+- For the tool, go here:  
 https://docs.google.com/spreadsheets/d/1K2dCK-YNR9zxPtCmRlvfSbNR0u3vxZW_xgDzmA5CRMM/edit#gid=0
+__Make a local copy in your google drive for editing__
 
-For more information on how these settings work, see the Profit Trailer wiki:  
+- For more information on how these settings work, see the Profit Trailer wiki:  
 https://wiki.profittrailer.com/doku.php?id=pairs.properties#default_trailing_profit_type
