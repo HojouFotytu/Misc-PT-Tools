@@ -24,6 +24,7 @@ This tool will calculate the resulting initial cost, buy value, and trailing buy
 This is an excellent way to quickly visualize and analyze the results of your settings in various market conditions.
 ![Imgur](https://i.imgur.com/gcyPvSi.jpg)
 ![Imgur](https://media.giphy.com/media/OQH6buGZp0zngOzEwD/giphy.gif)
+![Imgur](https://i.imgur.com/gcyPvSi.jpg)
 
 __Make a local copy in your google drive to edit__
 
