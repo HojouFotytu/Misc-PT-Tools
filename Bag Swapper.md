@@ -1,7 +1,5 @@
 
-Opportunity costs are killing you.  Better than dilution, or holding and waiting.
-
-Find a coin in an up-trend, or a coin that looks like it is ready to make a move.
+Find a coin in an up-trend with volume, or a coin that looks like it is ready to make a move.
 
 Sell your bag, and transfer those funds to the new coin, to recover your losses.
 
