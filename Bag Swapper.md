@@ -1,12 +1,11 @@
-Better than dilution, or holding and waiting.
 
-Opportunity costs are killing you.
+Opportunity costs are killing you.  Better than dilution, or holding and waiting.
 
 Find a coin in an up-trend, or a coin that looks like it is ready to make a move.
 
 Sell your bag, and transfer those funds to the new coin, to recover your losses.
 
-You can use this tool to calculate the new sell price to hotconfig, for the new coin, or even multiple coins.
+You can use this tool to calculate the new sell price to hotconfig, for the new coin or even multiple coins.
 
 Yellow fields should be filled with the appropriate values.
 
