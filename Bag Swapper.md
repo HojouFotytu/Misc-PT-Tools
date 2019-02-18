@@ -1,9 +1,9 @@
 
-Find a coin in an up-trend with volume, or a coin that looks like it is ready to make a move.
+Find a few coins in an up-trend on volume, or a coin that is ready to make a move (bouncing off support, making a breakout).
 
-Sell your bag, and transfer those funds to the new coin, to recover your losses.
+Sell your bag, and transfer those funds to the new coins, to recover your losses.
 
-You can use this tool to calculate the new sell price to hotconfig, for the new coin or even multiple coins.
+You can use this tool to calculate how many of the new coins you need to buy, and the new sell prices to hotconfig.
 
 Yellow fields should be filled with the appropriate values.
 
@@ -11,4 +11,9 @@ Yellow fields should be filled with the appropriate values.
 **Make a copy to your google drive to use it, do not request access.**
 
 https://docs.google.com/spreadsheets/d/1d-ppK4FHA_6gmO5ssRvabQU5IzFdxcRPAZ96QfrFTio/edit?usp=sharing
+
+
+One day after splitting a $500 -23% bag across five coins.  Notice this also allows DCA to activate selectively on smaller "pieces" to speed up recovery even faster.
+
+![Imgur](https://i.imgur.com/kwqpdVc.png)
 
