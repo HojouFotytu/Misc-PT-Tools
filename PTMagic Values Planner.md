@@ -4,7 +4,7 @@
 
 __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in your settings.analyzer.json.__
 
-#### For example, in your pairs folder, you might have:
+#### For example, in your pairs file, you might have:
 - DEFAULT_initial_cost_percentage = 3
 - DEFAULT_A_buy_value = -0.2
 - DEFAULT_trailing_buy = 0.33
