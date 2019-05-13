@@ -1,7 +1,7 @@
-### PT Grow-Trailing Visualizer
+### PT Grow/Shrink-Trailing Visualizer
 
 A simple tool to help you visualize the effects of different BUY and TRAILING values
-when using __"DEFAULT_trailing_profit_type = GROW"__
+when using __"DEFAULT_trailing_profit_type = GROW/SHRINK
 
 ---
 ![Image](https://i.imgur.com/WF2nAl5.png)
