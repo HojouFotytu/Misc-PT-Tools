@@ -1,9 +1,9 @@
 
 Find a few coins in an up-trend on volume, or a coin that is ready to make a move (bouncing off support, making a breakout).
 
-Sell your bag, and transfer those funds to the new coins.
+Sell your bag, and transfer those funds to one or more new coins.
 
-You can use this tool to calculate how many of the new coins you need to buy, and the new sell prices to hotconfig.
+You can use this tool to calculate how much of the new coins you need to buy, and the new sell prices to hotconfig.
 
 Yellow fields should be filled with the appropriate values.
 
