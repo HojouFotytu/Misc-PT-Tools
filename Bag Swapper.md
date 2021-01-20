@@ -9,7 +9,6 @@ Yellow fields should be filled with the appropriate values.
 
 
 **Make a copy to your google drive to use this, do not request access.**
-
 https://docs.google.com/spreadsheets/d/1d-ppK4FHA_6gmO5ssRvabQU5IzFdxcRPAZ96QfrFTio/edit?usp=sharing
 
 
