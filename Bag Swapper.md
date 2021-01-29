@@ -1,7 +1,7 @@
 
 Using some basic technical analysis skills, find coins in an up-trend or ready to make a move up (bouncing off support, making a breakout, etc).
 
-Sell your bag, and transfer those funds to one or more new coins.  Spreading it across more than one coin pair is a nice way to diversify your risk, and improve your chances of recovery.
+Sell your bag in a downtrend, and transfer those funds to one or more new coins currently in an uptrend.  Spreading it across more than one coin pair is a nice way to diversify your risk, and improve your chances of recovery.
 
 You can use this tool to calculate how much of the new coins you need to buy, and the new sell prices you'll need to set in PT's hotconfig, in order to break-even.
 
