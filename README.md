@@ -2,4 +2,4 @@
 ### Random Tools
 Click the file listed above for more info.
 
-Go here for misc PTM settings:  https://github.com/PTMagicians/Settings-Archive
+Visit https://github.com/PTMagicians/Settings-Archive for misc PTMagic settings.
