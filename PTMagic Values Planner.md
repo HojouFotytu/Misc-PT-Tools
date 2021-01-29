@@ -22,8 +22,6 @@ __This assumes you are using "OFFSETPERCENT" for all global and SMS settings in 
 
 This tool will calculate the resulting values for all your settings both globally, and for any coin that triggers one of your SMS settings.  It will allow you to adjust all the percentages, and apply different global settings with a drop-down menu.
 
-![Imgur](https://media.giphy.com/media/SqwDN1AKHLrmAAXZEo/giphy.gif)
-
 - This is an excellent way to quickly visualize, compare, and analyze the results of your settings in various market conditions.  You can even use this in combination with a backtesting script on Trading View to visualize your results.  See: https://www.tradingview.com/script/IalMwC3q-PT-v2-ALL-IN-ONE-Buy-Strategies/
 
 - For the tool, go here:  
