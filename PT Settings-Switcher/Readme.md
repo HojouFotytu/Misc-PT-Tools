@@ -58,7 +58,7 @@ If you decide to use the same settings for multiple market scenarios, for exampl
 Drop all six folders, each with the three settings files, into the folder named "_presets"
 
 ### 8. Configure PTMagic
-Carefully follow the instructions found here:  https://github.com/PTMagicians/PT-Magic/wiki/Setup-Guide, but __SKIP STEPS 6, 6 and 8__ -- we will take care of those steps now.
+Carefully follow the instructions found here:  https://github.com/PTMagicians/PT-Magic/wiki/Setup-Guide, but __SKIP STEPS 6, 7 and 8__ -- we will take care of those steps now.
 
 ### 9. Download the settings.analyzer.json
 Download the latest release of the settings.analyzer.json from this repo: https://github.com/HojouFotytu/Misc-PT-Tools/tree/master/PT%20Settings-Switcher, and copy it to your PTMagic folder, replacing the default version.
