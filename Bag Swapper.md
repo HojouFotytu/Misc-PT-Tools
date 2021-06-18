@@ -14,7 +14,7 @@ Yellow fields should be filled with the appropriate values.
 https://docs.google.com/spreadsheets/d/1d-ppK4FHA_6gmO5ssRvabQU5IzFdxcRPAZ96QfrFTio/edit?usp=sharing
 
 
-Below are the results one day after splitting a a -23%, $500 bag across five different coins.  Notice this also allows DCA to activate on smaller "pieces" to help with recovery.
+Below are the results after one day, when splitting a bag that was -23% across five different coins.  Notice this also allows DCA to activate on smaller "pieces" to help with recovery.
 
 ![Imgur](https://i.imgur.com/kwqpdVc.png)
 
