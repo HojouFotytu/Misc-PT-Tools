@@ -1,8 +1,9 @@
-# PT SMS Values Planner
+# PTMagic SMS Values Planner
 
-### This tool will allow you to quickly see and compare how all your different global and single-market settings will affect the base values in your pairs and DCA default settings.
+### This tool will allow [PTMagic](https://github.com/PTMagicians/PTMagic/wiki) users to quickly see and compare how your different global and single-market settings will affect the base values in your pairs and DCA default settings when using OFFSETPERCENT.  It will correctly calculate the values when both a global and single market setting are applied.
 
-__This assumes you are using "OFFSETPERCENT" for all global and SMS settings in your settings.analyzer.json.__
+![image](https://user-images.githubusercontent.com/36724681/122501988-adee1100-d030-11eb-91a9-db2e2e0fe302.png)
+
 
 #### For example, in your pairs file, you might have:
 - DEFAULT_initial_cost_percentage = 3
