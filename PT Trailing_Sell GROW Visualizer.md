@@ -6,10 +6,10 @@ A simple tool to help you visualize the effects of different BUY and TRAILING va
 
 ```
 DEFAULT_A_sell_strategy = GAIN
-DEFAULT_A_sell_value = 1.68
+DEFAULT_A_sell_value = 1.5
 
 DEFAULT_A_FORMULA_label = TrailValue
-DEFAULT_A_FORMULA = 0.288
+DEFAULT_A_FORMULA = 0.26
 
 DEFAULT_trailing_buy = (FA / SA) * SA
 ```
