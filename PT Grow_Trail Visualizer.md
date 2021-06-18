@@ -1,8 +1,17 @@
 ### PT Grow/Shrink-Trailing Visualizer
 
-A simple tool to help you visualize the effects of different BUY and TRAILING values
-when using __"DEFAULT_trailing_profit_type = GROW/SHRINK
+A simple tool to help you visualize the effects of different BUY and TRAILING values when using __"DEFAULT_trailing_profit_type = GROW/SHRINK"
 
+NOTE:  GROW and SHRINK are no longer available in PT, but the same effect is still possible using dynamic strategies, e.g.:
+
+```DEFAULT_A_sell_strategy = GAIN
+DEFAULT_A_sell_value = 1.68
+
+DEFAULT_A_FORMULA_label = TrailValue
+DEFAULT_A_FORMULA = 0.288
+
+DEFAULT_trailing_buy = (FA / SA) * SA
+```
 ---
 ![Image](https://i.imgur.com/WF2nAl5.png)
 
