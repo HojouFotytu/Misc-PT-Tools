@@ -5,7 +5,7 @@ Using some basic technical analysis skills, find coins in a strong up-trend or r
 
 You will sell your bag that is stuck in a downtrend, then transfer those funds to coin(s) in an uptrend.  You can also pread it across more than one coin pair to diversify your risk, and improve your chances of recovery.
 
-You can use this tool to calculate how many of the new coins you need to buy, and the new sell prices you'll need to set in PT's hotconfig, in order to break-even.
+This tool will calculate how many of the new coins you need to buy, and the new sell prices you'll need to set in PT's hotconfig, in order to break-even.
 
 Yellow fields should be filled with the appropriate values.
 
