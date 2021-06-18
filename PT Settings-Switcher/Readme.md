@@ -3,7 +3,7 @@ Profit Trailer no longer provides a collection of public configs for which this 
 
 
 # Profit Trailer Settings-Switcher
-This is a walk-through for using PTMagic to switch between Profit Trailer configs, based on changing market trends.  This can also be used as a more robust replacement of PT's Auto-Config switcher. However, PTMagic can only switch settings based on the average price trends YOU DEFINE across various time-frames.  It cannot use PTADXTREND, VWAPPERCENTAGE, MVWAPPERCENTAGE, or (X)MALINE.
+This is a walk-through for using PTMagic to switch between Profit Trailer configs, based on changing market trends.  This was created before PT implemented a built-in Auto-Config switcher, but it can still be used as a more [robust replacement](https://github.com/PTMagicians/PTMagic/wiki/Is-PTMagic-Necessary%3F#versatile-and-powerful) for this feature.  However, PTMagic can only switch settings based on the average price trends YOU DEFINE across various time-frames.  It cannot use PTADXTREND, VWAPPERCENTAGE, MVWAPPERCENTAGE, or (X)MALINE.
 
 ## Requirements: 
  - Copies of the configs/settings you are using from Profit Trailer
