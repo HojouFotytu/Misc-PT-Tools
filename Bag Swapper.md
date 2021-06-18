@@ -3,7 +3,7 @@ This tool will help you do the calculations to move funds from a pair in a downt
 
 Using some basic technical analysis skills, find coins in a strong up-trend or ready to make a move up (bouncing off support, making a breakout, etc).
 
-You will sell your bag that is stuck in a downtrend, then transfer those funds to coin(s) in an uptrend.  Spreading it across more than one coin pair is a nice way to diversify your risk, and improve your chances of recovery.
+You will sell your bag that is stuck in a downtrend, then transfer those funds to coin(s) in an uptrend.  You can also pread it across more than one coin pair to diversify your risk, and improve your chances of recovery.
 
 You can use this tool to calculate how many of the new coins you need to buy, and the new sell prices you'll need to set in PT's hotconfig, in order to break-even.
 
