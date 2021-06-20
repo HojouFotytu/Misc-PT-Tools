@@ -6,11 +6,11 @@
 |&&|and|
 |\|\||or|
 |==|equals|
-|!=||not equals
-|\*|multiply|
-|/|divide|
+|!=|not equals|
 |+|add|
 |-|subtract|
+|\*|multiply|
+|/|divide|
 |? :|conditional|
 
 <br>
