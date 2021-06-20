@@ -48,7 +48,7 @@
 ```DEFAULT_sell_strategy_formula = SA > 1```<br>
 (Sell if the value of strategy A is greater than 1)
 
-## Boolean for Strategy A: A
+## Boolean of Strategy A: A
 ```DEFAULT_sell_strategy_formula = A || B```<br>
 (Sell if strategy A or Strategy B is true)
 
