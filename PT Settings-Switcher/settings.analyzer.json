@@ -140,10 +140,16 @@
         ],
         "PairsProperties": {
           "File": "xxx-PAIRS.PROPERTIES",
-		      "DEFAULT_trading_enabled": "false",
+	  "DEFAULT_trading_enabled": "false",
+          "DEFAULT_sell_only_mode_enabled": "true",
+	  //"DEFAULT_initial_cost_OFFSETPERCENT": -50,
+	  //"max_trading_pairs_OFFSETPERCENT": -50,
+	  //"DEFAULT_keep_balance_OFFSETPERCENT": 25,
+	  //"DEFAULT_A_sell_value_OFFSETPERCENT": -50,  // GAIN
         },
         "DCAProperties": {
           "File": "xxx-DCA.PROPERTIES",
+	  //"DEFAULT_DCA_A_sell_value_OFFSETPERCENT": -50,  // GAIN
         },
         "IndicatorsProperties": {
           "File": "xxx-INDICATORS.PROPERTIES",
@@ -171,7 +177,11 @@
         ],
        "PairsProperties": {
           "File": "xxx-PAIRS.PROPERTIES",
-		      "DEFAULT_trading_enabled": "false",
+	  "DEFAULT_trading_enabled": "false",
+	  //"DEFAULT_initial_cost_OFFSETPERCENT": -25,
+	  //"max_trading_pairs_OFFSETPERCENT": -25,
+	  //"DEFAULT_keep_balance_OFFSETPERCENT": 25,
+	  //"DEFAULT_A_sell_value_OFFSETPERCENT": -25,  // GAIN
         },
         "DCAProperties": {
           "File": "xxx-DCA.PROPERTIES",
