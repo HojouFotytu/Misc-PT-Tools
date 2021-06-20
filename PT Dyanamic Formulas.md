@@ -55,7 +55,7 @@
 ## Boolean or Value of Formula A: FA
 ### Boolean
 ```DEFAULT_A_FORMULA = A || B || (SC > 60)```<br>
-(Strategy A is true OR Strategy B is true OR value of Strategy C is greater than 60)<br>
+(Strategy A OR Strategy B OR value of Strategy C is greater than 60)<br>
 ```DEFAULT_sell_strategy_formula = FA || D```<br>
 (Sell if Formula A or Strategy D is true)
 
