@@ -11,7 +11,7 @@
 |/|divide|
 |+|add|
 |-|subtract|
-|? :|if-then-else|
+|? :|conditional|
 
 <br>
 
@@ -65,7 +65,7 @@
 ```DEFAULT_trailing_profit = FA```<br>
 (Trail with the value of Formula A)
 
-## Ternary formulas: (Boolean) ? (value) : (value)
+## Conditional formulas: (Boolean) ? (value) : (value)
 ```DEFAULT_trailing_profit = (A || B) ? 1 : 2```<br>
 (If Strategy A or Strategy B is true, then trailing profit is 1, else trailing profit is 2)
 
