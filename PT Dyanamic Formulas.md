@@ -36,7 +36,7 @@
 |PBAL|Current Pairs balance|
 |DBAL|Current DCA balance|
 |TCV|Total Current Value|
-|TTP|Todays Total Profit ???|
+|TTP|Total Trading Pairs|
 |PCOST|PAIRS Total COST|
 |PTCV|PAIRS Total Current Value|
 |DCOST|DCA Total COST|
