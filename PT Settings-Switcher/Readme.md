@@ -21,7 +21,7 @@ PTMagic will be used to automatically change between your configs/settings. PTMa
 __PTMagic does not interact with your exchange in any way__.  It only __makes adjustments to your Profit Trailer config settings__, based on it's analysis of current market conditions and the behavior of individual coins.
 
 ### Caution
-After following the instructions below and getting everything set up, run your Profit Trailer bot in test mode so you can watch how things work, make any necessary adjustments, and make sure you didn't make any mistakes. Anytime you try new strategies or trading techniques, you should take your time and test your settings to ensure you aren't exposing yourself to too much risk.  Crypto markets are highly volatile -- sudden changes in market conditions can result in large losses if Profit Trailer or PTMagic are configured incorrectly.  
+After following the instructions below and getting everything set up, run your Profit Trailer bot in test mode so you can watch how things work, make any necessary adjustments, and make sure you didn't make any mistakes. Anytime you try new strategies or trading techniques, you should take your time and test your settings to ensure you aren't exposing yourself to too much risk.  Crypto markets are highly volatile -- sudden changes in market conditions can result in large losses if Profit Trailer or PTMagic are configured incorrectly, that you might not notice until otherwise rare market conditions occur. 
 
 ---
 ## Getting Started
