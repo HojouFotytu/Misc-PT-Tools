@@ -14,7 +14,7 @@ This tool will calculate how many of the new coins you need to buy, and the new 
 https://docs.google.com/spreadsheets/d/1d-ppK4FHA_6gmO5ssRvabQU5IzFdxcRPAZ96QfrFTio/edit?usp=sharing
 
 
-Below are the results after one day, when splitting a bag that was -23% across five different coins.  Notice this also allows DCA to activate on smaller "pieces" to help with recovery.
+Below are the results after one day, when splitting a -23% position in APPCBTC across four other coins.  Notice this also allows DCA to activate on smaller "pieces" to help with recovery.
 
 ![Imgur](https://i.imgur.com/kwqpdVc.png)
 
