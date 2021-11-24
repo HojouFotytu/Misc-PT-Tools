@@ -5,7 +5,9 @@ Using some basic technical analysis skills, find coins in a strong up-trend or r
 
 You will sell your bag, then transfer those funds to the coin(s) in an uptrend.  You can also spread it across more than one coin pair to diversify, and improve your chances of recovery.
 
-This tool will calculate how many of the new coins you need to buy, and the new bought prices (the profit target) you'll need to set in PT in order to break-even. **NOTE:** You can only set a new bought price for a pair if USE_BOT_PRICE_CALCULATION = true 
+This tool will calculate how many of the new coins you need to buy, and the new bought prices (the profit target) you'll need to set in PT in order to break-even. **NOTE:** You can only set a new bought price for a pair if USE_BOT_PRICE_CALCULATION = true
+
+If you are doing this on futures, keep in mind that PT reads price data directly from the exchange, so you cannot set a bought price.  To get around this, you can use the FIXEDPRICE strategy, or simply put the coin in WATCHMODE and sell it manually when it reaches your target.
 
 
 ![image](https://user-images.githubusercontent.com/36724681/122503936-4043e400-d034-11eb-9656-3a86b51e8836.png)
